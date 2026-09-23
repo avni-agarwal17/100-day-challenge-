@@ -1,3 +1,6 @@
+//write a program to input 2 no. and display their sun , difference , product , quotient.
+
+
 #include <stdio.h>
 
 int main() {
